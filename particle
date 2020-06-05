@@ -1,6 +1,6 @@
-int led1 = D6;
+int led1 = D4;
 int led2 = D5;
-int led3 = D4;
+int led3 = D6;
 
 void setup() {
    
